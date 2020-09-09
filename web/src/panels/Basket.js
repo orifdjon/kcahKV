@@ -155,7 +155,7 @@ const Basket = ({ match: { params: { areaId, itemId }}, foodAreas, order }) => {
               }}
               className="Place__order">
               Оплатить {price}
-          </Link>;
+          </Link>
       </footer>
     </div>
   );
