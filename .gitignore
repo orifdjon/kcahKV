@@ -12,4 +12,3 @@
 /web/yarn-error.log*
 /web/.changelog
 /web/.npm/
-/web/yarn.lock
